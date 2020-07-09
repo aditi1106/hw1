@@ -1,0 +1,24 @@
+header(
+	background-color:#b3b3b3;
+)
+nav(
+	color:#000000;
+	background-color:#808080;
+)
+h1(
+	text-align:center;
+	color:#ffffff;
+	font-variant:small-caps;
+	font-size:150%;
+)
+h2(
+	color:#0000ff;
+        font-variant:small-caps;
+	font-size:130%;
+)
+section(
+	background-color:#666666;
+)
+aside(
+	display:none;
+)
